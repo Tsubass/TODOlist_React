@@ -1,7 +1,7 @@
 {
-  "name": "todolist-react",
+  "name": "todolist",
   "version": "1.0.0",
-  "description": "",
+  "description": "ToDoListをReactで作成",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
