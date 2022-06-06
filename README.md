@@ -1,7 +1,7 @@
 # ToDoList_React
 Created with CodeSandbox
 
-## 機能面
+## 機能
 ### TODOを入力
 - 「TODOを入力」の箇所に何か文字を入れて「追加」をクリックすると、「未完了のTODO」に追加される。
 
