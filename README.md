@@ -1,4 +1,4 @@
-# ToDoList_React
+# ToDoList_React（Reactを用いたTODOList）
 Created with CodeSandbox
 
 ## 作成した目的
